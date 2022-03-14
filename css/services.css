@@ -1,0 +1,59 @@
+#services {
+    background: #fff;
+    padding: 20px 0;
+}
+
+h2 {
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+
+h3 {
+    font-size: 2em;
+    font-weight: 500;
+    letter-spacing: -0.04em;
+    color: #9bf0e1;
+}
+
+.service h2 {
+    color: #7c25f8;
+}
+
+.service p {
+    color: #000;
+}
+
+.albuns {
+    padding: 10px 5px;
+}
+
+/* */
+
+#resource {
+    padding: 20px 0;
+}
+
+#resource h2, p {
+    color: #fff;
+}
+
+.root {
+    transform: rotate(30deg);
+    padding-left: 80px;
+}
+
+
+@media (max-width: 575.98px) {
+    #services h2, h3, p {
+        text-align: center;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    h2 {
+        font-size: 2.1em;
+    }
+
+}
