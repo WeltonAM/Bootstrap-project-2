@@ -21,8 +21,10 @@ footer .navbar-nav a:hover {
 
 footer p {
     text-align: center;
-    padding-top: 20px;
+    margin-top: 25px;
+    padding-top: 25px;
     color: #FFF;
+    border-top: 1px #e1e1e1 solid;
 }
 
 footer a {
@@ -43,9 +45,9 @@ footer a:hover {
 
 
 
-@media (max-width: 575.98px) {
+@media (max-width: 768px) {
     .footer-h3 {
-        padding-top: 20px;
+        padding-top: 25px;
     }
     
 
