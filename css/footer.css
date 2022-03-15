@@ -41,6 +41,16 @@ footer a:hover {
     text-align: left;
 }
 
+
+
+@media (max-width: 575.98px) {
+    .footer-h3 {
+        padding-top: 20px;
+    }
+    
+
+}
+
 @media (min-width: 768px) and (max-width: 991.98px) {
     footer #logo {
         font-size: 0.8em;
