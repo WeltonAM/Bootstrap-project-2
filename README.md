@@ -1,5 +1,4 @@
 # Bootstrap project #2_Spotify-copy
- Spotify-copy
  
  Web dev course (Udemy)
  
