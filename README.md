@@ -1,4 +1,5 @@
-# Project9_Spotify-copy
- Bootstrap project #2
+# Bootstrap project #2_Spotify-copy
+
+ Web dev course (Udemy)
  
 https://weltonam.github.io/Project9_Spotify-copy/
