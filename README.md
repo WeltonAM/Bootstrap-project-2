@@ -2,4 +2,4 @@
  
  Web dev course (Udemy)
  
-https://weltonam.github.io/Project9_Spotify-copy/
+https://weltonam.github.io/Bootstrap-project-2/
